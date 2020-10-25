@@ -15,4 +15,4 @@ Here are some ideas to get you started:-->
 
 - 📫 How to reach me: https://www.linkedin.com/in/yozaam/
 
-- ⚡ Fun fact: I've written 70 editorials to problems on https://binarysearch.com/@/yozaam
+- ⚡ Fun fact: I've written 70 editorials to problems on [![binarysearch](https://binarysearch.com/api/shields/yozaam)](https://binarysearch.com/@/yozaam)
