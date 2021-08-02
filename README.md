@@ -5,10 +5,10 @@
 Here are some ideas to get you started:-->
 
 - 👯 Internships:
-  - Bleetech Innovations, using Node JS, React
-  - Goldman Sachs, Java, React, Typescript
-  - Red Hat (Starting on 2nd August :)
-
+  - Red Hat
+  - Goldman Sachs
+  - Bleetech Innovations
+  
 - 🔭 Love Data structures and algorithms, 100+ videos on https://www.youtube.com/yozaam as well as a series with https://www.youtube.com/c/CodeforCause
 
 - 🌱 I was learning C++ and JS, so I tried understanding the mozilla JS interpreter to develop my skills https://phabricator.services.mozilla.com/p/yozaam/
